@@ -1,3 +1,5 @@
+PHP ve Wordpress için kandilli rasathanesinden son deprem verilerini çekebilirsiniz, sitenizde listeleyebilirsiniz.
+
 # Wordpress
 
 Wordpresste Kullanabilmek için, for-wp dosyasının içindeki kodları temanızın içinde bulunan functions.php dosyasının en altına ekleyin.
