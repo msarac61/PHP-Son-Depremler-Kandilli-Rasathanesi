@@ -14,6 +14,7 @@ function depremler() {
         );
     }
 
+    echo '<div class="sondepremler">';
     echo '<ul>';
     foreach ($depremlerArray as $eq) :
         echo '<li>';
@@ -22,6 +23,7 @@ function depremler() {
         echo '</li>';
     endforeach;
     echo '</ul>';
+    echo '</div>';
 }
 
 add_shortcode('depremler', 'depremler');
