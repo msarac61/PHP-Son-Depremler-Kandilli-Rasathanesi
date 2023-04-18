@@ -24,4 +24,4 @@ for-php.php dosyasının içindeki kodları alın, fonksiyonu istediğiniz bir k
   // Kodlar Buraya
 }
 
-Şeklinde düzenleyerek ekleme yapabilirsiniz, kolaylıklar dilerim.
+şeklinde düzenleyerek ekleme yapabilirsiniz, kolaylıklar dilerim.
